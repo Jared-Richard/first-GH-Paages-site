@@ -5,9 +5,4 @@ title: Quantus
 
 <h1 class="home-header">Quantus</h1>
 
-This is the home page
-
-<h3 class="masthead-title">
-  <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-  <small>{{ site.tagline }}</small>
-</h3>
+<h2 class="home-subheader">A website by <a href="www.linkedin.com/in/jared-richard">Jared Richard</a></h2>
