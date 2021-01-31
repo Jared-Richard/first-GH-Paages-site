@@ -1,7 +1,7 @@
 # Setup
-title:               Lanyonnnn
-tagline:             'A Jekyll thhhtheme'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:               Quantus
+tagline:             'A website by Jared Richard'
+description:         'Just a Physicist who wants to know why.'
 url:                 http://Jared-Richard.github.io
 baseurl:             /Jared-Richard.github.io
 paginate:            5
@@ -9,9 +9,9 @@ permalink:           pretty
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Jared Richard
+  url:               
+  email:             jaredk.richard@gmail.com
 
 # Gems
 plugins:
